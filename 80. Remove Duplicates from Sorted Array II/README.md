@@ -48,3 +48,10 @@ Explanation: Your function should return length = 7, with the first seven elemen
 - `1 <= nums.length <= 3 * 104`
 - `-104 <= nums[i] <= 104`
 - `nums` is sorted in ascending order.
+
+#### Result
+
+---
+
+**Runtime: 44 ms**, faster than **98.58%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**
+**Memory Usage: 14.2 MB**, less than **86.63%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**
