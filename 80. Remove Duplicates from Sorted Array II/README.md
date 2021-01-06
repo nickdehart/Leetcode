@@ -16,7 +16,7 @@ Note that the input array is passed in by **reference**, which means a modificat
 
 Internally you can think of this:
 
-```python
+```
 // nums is passed in by reference. (i.e., without making a copy)
 int len = removeDuplicates(nums);
 
@@ -29,7 +29,7 @@ for (int i = 0; i < len; i++) {
 
 **Example 1:**
 
-```python
+```
 Input: nums = [1,1,1,2,2,3]
 Output: 5, nums = [1,1,2,2,3]
 Explanation: Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3 respectively. It doesn't matter what you leave beyond the returned length.
@@ -37,7 +37,7 @@ Explanation: Your function should return length = 5, with the first five element
 
 **Example 2:**
 
-```python
+```
 Input: nums = [0,0,1,1,1,1,2,3,3]
 Output: 7, nums = [0,0,1,1,2,3,3]
 Explanation: Your function should return length = 7, with the first seven elements of nums being modified to 0, 0, 1, 1, 2, 3 and 3 respectively. It doesn't matter what values are set beyond the returned length.

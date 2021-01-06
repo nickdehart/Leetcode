@@ -11,28 +11,28 @@ Assume we are dealing with an environment that could only store integers within 
 
 **Example 1:**
 
-```python
+```
 Input: x = 123
 Output: 321
 ```
 
 **Example 2:**
 
-```python
+```
 Input: x = -123
 Output: -321
 ```
 
 **Example 3:**
 
-```python
+```
 Input: x = 120
 Output: 21
 ```
 
 **Example 4:**
 
-```python
+```
 Input: x = 0
 Output: 0
 ```
