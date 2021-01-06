@@ -53,6 +53,6 @@ Explanation: Your function should return length = 7, with the first seven elemen
 
 ---
 
-**Runtime: 44 ms**, faster than **98.58%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**
+Runtime: **44 ms**, faster than **98.58%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**
 
-**Memory Usage: 14.2 MB**, less than **86.63%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**
+Memory Usage: **14.2 MB**, less than **86.63%** of Python3 online submissions for **Remove Duplicates from Sorted Array II.**

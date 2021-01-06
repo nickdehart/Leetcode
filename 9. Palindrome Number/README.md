@@ -38,12 +38,12 @@ Output: false
 
 **Constraints:**
 
-- `-231 <= x <= 231 - 1`
+- -2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
 
 ### Result
 
 ---
 
-**Runtime: 76 ms**, faster than **25.01%** of Python3 online submissions for **Palindrome Number.**
+Runtime: **76 ms**, faster than **25.01%** of Python3 online submissions for **Palindrome Number.**
 
-**Memory Usage: 14.4 MB**
+Memory Usage: **14.4 MB**

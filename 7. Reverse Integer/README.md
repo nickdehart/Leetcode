@@ -1,4 +1,4 @@
-###7. Reverse Integer
+### 7. Reverse Integer
 
 ---
 
@@ -39,12 +39,12 @@ Output: 0
 
 **Constraints:**
 
-- `-2U+2083U+2081 <= x <= 2U+2083U+2081 - 1`
+- -2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
 
 ### Result
 
 ---
 
-**Runtime: 36 ms**, faster than **35.03%** of Python3 online submissions for **Reverse Integer.**
+Runtime: **36 ms**, faster than **35.03%** of Python3 online submissions for **Reverse Integer.**
 
-**Memory Usage: 14.2 MB**, less than **67.57%** of Python3 online submissions for **Reverse Integer.**
+Memory Usage: **14.2 MB**, less than **67.57%** of Python3 online submissions for **Reverse Integer.**

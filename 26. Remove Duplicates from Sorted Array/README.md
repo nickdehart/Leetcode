@@ -53,6 +53,6 @@ Explanation: Your function should return length = 5, with the first five element
 
 ---
 
-**Runtime: 92 ms**, faster than **36.44%** of Python3 online submissions for **Remove Duplicates from Sorted Array.**
+Runtime: **92 ms**, faster than **36.44%** of Python3 online submissions for **Remove Duplicates from Sorted Array.**
 
-**Memory Usage: 15.9 MB**, less than **44.73%** of Python3 online submissions for **Remove Duplicates from Sorted Array.**
+Memory Usage: **15.9 MB**, less than **44.73%** of Python3 online submissions for **Remove Duplicates from Sorted Array.**
