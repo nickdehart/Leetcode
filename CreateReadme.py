@@ -44,15 +44,15 @@ with open("./README.md", 'w') as f:
     f.write("### My Leetcode Solutions\n\n---\n")
     f.write("\n**Hard:**\n")
     for each in difficulties['hard']:
-        f.write(f"- [{each.replace('./', '')}]({each})\n")
+        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
     f.write("\n**Medium:**\n")
     for each in difficulties['medium']:
-        f.write(f"- [{each.replace('./', '')}]({each})\n")
+        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
     f.write("\n**Easy:**\n")
     for each in difficulties['easy']:
-        f.write(f"- [{each.replace('./', '')}]({each})\n")
+        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
     f.write("\n---\n")
     for key in langs:
         f.write(f"\n**{langLookup[key]}:**\n")
         for each in langs[key]:
-            f.write(f"- [{each.replace('./', '')}]({each})\n")
+            f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
