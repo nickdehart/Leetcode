@@ -1,8 +1,4 @@
 import os
-import sys
-
-sys.stdout = open(os.devnull, "w")
-sys.stderr = open(os.devnull, "w")
 
 langLookup = {
     'js': 'JavaScript',
@@ -45,18 +41,21 @@ for d in os.walk('.'):
             langs[ext] = [d[0]]
 
 with open("./README.md", 'w') as f:
+    def createBullets(iterable):
+        for each in iterable:
+            f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+
     f.write("### My Leetcode Solutions\n\n---\n")
     f.write("\n**Hard:**\n")
-    for each in difficulties['hard']:
-        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+    createBullets(difficulties['hard'])
+
     f.write("\n**Medium:**\n")
-    for each in difficulties['medium']:
-        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+    createBullets(difficulties['medium'])
+
     f.write("\n**Easy:**\n")
-    for each in difficulties['easy']:
-        f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+    createBullets(difficulties['easy'])
+
     f.write("\n---\n")
     for key in langs:
         f.write(f"\n**{langLookup[key]}:**\n")
-        for each in langs[key]:
-            f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+        createBullets(langs[key])
