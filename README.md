@@ -3,6 +3,7 @@
 ---
 
 **Hard:**
+- [37. Sudoku Solver](<./37. Sudoku Solver>)
 - [4. Median of Two Sorted Arrays](<./4. Median of Two Sorted Arrays>)
 
 **Medium:**
@@ -30,6 +31,7 @@
 
 **JavaScript:**
 - [338. Counting Bits](<./338. Counting Bits>)
+- [37. Sudoku Solver](<./37. Sudoku Solver>)
 - [287. Find the Duplicate Number](<./287. Find the Duplicate Number>)
 - [4. Median of Two Sorted Arrays](<./4. Median of Two Sorted Arrays>)
 
