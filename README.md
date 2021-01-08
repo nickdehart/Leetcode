@@ -7,6 +7,7 @@
 
 **Medium:**
 - [338. Counting Bits](<./338. Counting Bits>)
+- [287. Find the Duplicate Number](<./287. Find the Duplicate Number>)
 - [80. Remove Duplicates from Sorted Array II](<./80. Remove Duplicates from Sorted Array II>)
 
 **Easy:**
@@ -29,6 +30,7 @@
 
 **JavaScript:**
 - [338. Counting Bits](<./338. Counting Bits>)
+- [287. Find the Duplicate Number](<./287. Find the Duplicate Number>)
 - [4. Median of Two Sorted Arrays](<./4. Median of Two Sorted Arrays>)
 
 **C++:**
