@@ -20,11 +20,12 @@
 </details>
 
 <details>
-<summary><b>Easy (6):</b></summary>
+<summary><b>Easy (7):</b></summary>
 <ul><li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
 <li><a href='./9.%20Palindrome%20Number'>9. Palindrome Number</a></li>
 <li><a href='./69.%20Sqrt(x)'>69. Sqrt(x)</a></li>
 <li><a href='./7.%20Reverse%20Integer'>7. Reverse Integer</a></li>
+<li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
 <li><a href='./190.%20Reverse%20Bits'>190. Reverse Bits</a></li>
 <li><a href='./26.%20Remove%20Duplicates%20from%20Sorted%20Array'>26. Remove Duplicates from Sorted Array</a></li>
 </ul>
@@ -56,6 +57,12 @@
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./4.%20Median%20of%20Two%20Sorted%20Arrays'>4. Median of Two Sorted Arrays</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
+</ul>
+</details>
+
+<details>
+<summary><b>TypeScript (1):</b></summary>
+<ul><li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
 </ul>
 </details>
 
