@@ -9,6 +9,7 @@
 **Medium:**
 - [338. Counting Bits](<./338. Counting Bits>)
 - [287. Find the Duplicate Number](<./287. Find the Duplicate Number>)
+- [50. Pow(x, n)](<./50. Pow(x, n)>)
 - [36. Valid Sudoku](<./36. Valid Sudoku>)
 - [80. Remove Duplicates from Sorted Array II](<./80. Remove Duplicates from Sorted Array II>)
 
@@ -25,6 +26,7 @@
 **C:**
 - [191. Number of 1 Bits](<./191. Number of 1 Bits>)
 - [69. Sqrt(x)](<./69. Sqrt(x)>)
+- [50. Pow(x, n)](<./50. Pow(x, n)>)
 
 **Python:**
 - [9. Palindrome Number](<./9. Palindrome Number>)
