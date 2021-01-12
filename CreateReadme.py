@@ -48,23 +48,23 @@ with open("./README.md", 'w') as f:
     f.write("### My Leetcode Solutions\n\n---\n")
 
     f.write("\n<details>")
-    f.write("\n<summary><b>Hard:</b></summary>\n<ul>")
+    f.write(f"\n<summary><b>Hard ({len(difficulties['hard'])}):</b></summary>\n<ul>")
     createBullets(difficulties['hard'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
-    f.write("\n<summary><b>Medium:</b></summary>\n<ul>")
+    f.write(f"\n<summary><b>Medium ({len(difficulties['medium'])}):</b></summary>\n<ul>")
     createBullets(difficulties['medium'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
-    f.write("\n<summary><b>Easy:</b></summary>\n<ul>")
+    f.write(f"\n<summary><b>Easy ({len(difficulties['easy'])}):</b></summary>\n<ul>")
     createBullets(difficulties['easy'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n---\n")
     for key in langs:
         f.write("\n<details>")
-        f.write(f"\n<summary><b>{langLookup[key]}:</b></summary>\n<ul>")
+        f.write(f"\n<summary><b>{langLookup[key]} ({len(langs[key])}):</b></summary>\n<ul>")
         createBullets(langs[key])
         f.write("</ul>\n</details>\n")
