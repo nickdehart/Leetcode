@@ -43,28 +43,28 @@ for d in os.walk('.'):
 with open("./README.md", 'w') as f:
     def createBullets(iterable):
         for each in iterable:
-            f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
+            f.write(f"<li><a href='{each.replace(' ', '%20')}'>{each.replace('./', '')}</a></li>\n")
 
     f.write("### My Leetcode Solutions\n\n---\n")
 
     f.write("\n<details>")
-    f.write("\n<summary>**Hard:**</summary>\n")
+    f.write("\n<summary><b>Hard:</b></summary>\n")
     createBullets(difficulties['hard'])
     f.write("\n</details>\n")
 
     f.write("\n<details>")
-    f.write("\n<summary>**Medium:**</summary>\n")
+    f.write("\n<summary><b>Medium:</b></summary>\n")
     createBullets(difficulties['medium'])
     f.write("\n</details>\n")
 
     f.write("\n<details>")
-    f.write("\n<summary>**Easy:**</summary>\n")
+    f.write("\n<summary><b>Easy:</b></summary>\n")
     createBullets(difficulties['easy'])
     f.write("\n</details>\n")
 
     f.write("\n---\n")
     for key in langs:
         f.write("\n<details>")
-        f.write(f"\n<summary>**{langLookup[key]}:**</summary>\n")
+        f.write(f"\n<summary><b>{langLookup[key]}:</b></summary>\n")
         createBullets(langs[key])
         f.write("\n</details>\n")
