@@ -46,16 +46,25 @@ with open("./README.md", 'w') as f:
             f.write(f"- [{each.replace('./', '')}](<{each}>)\n")
 
     f.write("### My Leetcode Solutions\n\n---\n")
-    f.write("\n**Hard:**\n")
+
+    f.write("\n<details>")
+    f.write("\n<summary>**Hard:**</summary>\n")
     createBullets(difficulties['hard'])
+    f.write("\n</details>\n")
 
-    f.write("\n**Medium:**\n")
+    f.write("\n<details>")
+    f.write("\n<summary>**Medium:**</summary>\n")
     createBullets(difficulties['medium'])
+    f.write("\n</details>\n")
 
-    f.write("\n**Easy:**\n")
+    f.write("\n<details>")
+    f.write("\n<summary>**Easy:**</summary>\n")
     createBullets(difficulties['easy'])
+    f.write("\n</details>\n")
 
     f.write("\n---\n")
     for key in langs:
-        f.write(f"\n**{langLookup[key]}:**\n")
+        f.write("\n<details>")
+        f.write(f"\n<summary>**{langLookup[key]}:**</summary>\n")
         createBullets(langs[key])
+        f.write("\n</details>\n")
