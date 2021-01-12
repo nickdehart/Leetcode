@@ -15,6 +15,7 @@
 **Easy:**
 - [191. Number of 1 Bits](<./191. Number of 1 Bits>)
 - [9. Palindrome Number](<./9. Palindrome Number>)
+- [69. Sqrt(x)](<./69. Sqrt(x)>)
 - [7. Reverse Integer](<./7. Reverse Integer>)
 - [190. Reverse Bits](<./190. Reverse Bits>)
 - [26. Remove Duplicates from Sorted Array](<./26. Remove Duplicates from Sorted Array>)
@@ -23,6 +24,7 @@
 
 **C:**
 - [191. Number of 1 Bits](<./191. Number of 1 Bits>)
+- [69. Sqrt(x)](<./69. Sqrt(x)>)
 
 **Python:**
 - [9. Palindrome Number](<./9. Palindrome Number>)
