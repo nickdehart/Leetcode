@@ -20,8 +20,9 @@
 </details>
 
 <details>
-<summary><b>Easy (9):</b></summary>
-<ul><li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
+<summary><b>Easy (10):</b></summary>
+<ul><li><a href='./627.%20Swap%20Salary'>627. Swap Salary</a></li>
+<li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
 <li><a href='./9.%20Palindrome%20Number'>9. Palindrome Number</a></li>
 <li><a href='./69.%20Sqrt(x)'>69. Sqrt(x)</a></li>
 <li><a href='./7.%20Reverse%20Integer'>7. Reverse Integer</a></li>
@@ -34,6 +35,12 @@
 </details>
 
 ---
+
+<details>
+<summary><b>SQL (1):</b></summary>
+<ul><li><a href='./627.%20Swap%20Salary'>627. Swap Salary</a></li>
+</ul>
+</details>
 
 <details>
 <summary><b>C (3):</b></summary>
