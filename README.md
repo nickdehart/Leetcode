@@ -20,12 +20,13 @@
 </details>
 
 <details>
-<summary><b>Easy (7):</b></summary>
+<summary><b>Easy (8):</b></summary>
 <ul><li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
 <li><a href='./9.%20Palindrome%20Number'>9. Palindrome Number</a></li>
 <li><a href='./69.%20Sqrt(x)'>69. Sqrt(x)</a></li>
 <li><a href='./7.%20Reverse%20Integer'>7. Reverse Integer</a></li>
 <li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
+<li><a href='./171.%20Excel%20Sheet%20Column%20Number'>171. Excel Sheet Column Number</a></li>
 <li><a href='./190.%20Reverse%20Bits'>190. Reverse Bits</a></li>
 <li><a href='./26.%20Remove%20Duplicates%20from%20Sorted%20Array'>26. Remove Duplicates from Sorted Array</a></li>
 </ul>
@@ -67,7 +68,8 @@
 </details>
 
 <details>
-<summary><b>C++ (1):</b></summary>
-<ul><li><a href='./190.%20Reverse%20Bits'>190. Reverse Bits</a></li>
+<summary><b>C++ (2):</b></summary>
+<ul><li><a href='./171.%20Excel%20Sheet%20Column%20Number'>171. Excel Sheet Column Number</a></li>
+<li><a href='./190.%20Reverse%20Bits'>190. Reverse Bits</a></li>
 </ul>
 </details>
