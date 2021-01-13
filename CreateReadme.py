@@ -10,7 +10,8 @@ langLookup = {
     'rb': 'Ruby',
     'java': 'Java',
     'scala': 'Scala',
-    'cs': 'C#'
+    'cs': 'C#',
+    'sql': 'SQL'
 }
 
 difficulties = {
