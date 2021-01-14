@@ -35,11 +35,13 @@ for d in os.walk('.'):
                 if '**hard**' in line.lower():
                     difficulties['hard'].append(d[0])
                     break
-        ext = d[2][0].split('.')[1]
-        if ext in langs:
-            langs[ext].append(d[0])
-        else: 
-            langs[ext] = [d[0]]
+        for each in d[2]:
+            if '.md' not in each:
+                ext = each.split('.')[1]
+                if ext in langs:
+                    langs[ext].append(d[0])
+                else: 
+                    langs[ext] = [d[0]]
 
 with open("./README.md", 'w') as f:
     def createBullets(iterable):
