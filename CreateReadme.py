@@ -66,7 +66,7 @@ with open("./README.md", 'w') as f:
     f.write("</ul>\n</details>\n")
 
     f.write("\n---\n")
-    for key in langs:
+    for key in sorted(langs.keys()):
         f.write("\n<details>")
         f.write(f"\n<summary><b>{langLookup[key]} ({len(langs[key])}):</b></summary>\n<ul>")
         createBullets(langs[key])
