@@ -10,12 +10,13 @@
 </details>
 
 <details>
-<summary><b>Medium (7):</b></summary>
+<summary><b>Medium (8):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
+<li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
 <li><a href='./2.%20Add%20Two%20Numbers'>2. Add Two Numbers</a></li>
 <li><a href='./338.%20Counting%20Bits'>338. Counting Bits</a></li>
 </ul>
@@ -41,9 +42,10 @@
 ---
 
 <details>
-<summary><b>C (3):</b></summary>
+<summary><b>C (4):</b></summary>
 <ul><li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
 <li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
+<li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
 <li><a href='./69.%20Sqrt(x)'>69. Sqrt(x)</a></li>
 </ul>
 </details>
