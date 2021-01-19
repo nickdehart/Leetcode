@@ -10,9 +10,10 @@
 </details>
 
 <details>
-<summary><b>Medium (8):</b></summary>
+<summary><b>Medium (9):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
+<li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
@@ -60,9 +61,10 @@
 </details>
 
 <details>
-<summary><b>JavaScript (7):</b></summary>
+<summary><b>JavaScript (8):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./4.%20Median%20of%20Two%20Sorted%20Arrays'>4. Median of Two Sorted Arrays</a></li>
+<li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
 <li><a href='./1480.%20Running%20Sum%20of%201d%20Array'>1480. Running Sum of 1d Array</a></li>
