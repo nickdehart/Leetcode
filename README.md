@@ -10,8 +10,9 @@
 </details>
 
 <details>
-<summary><b>Medium (9):</b></summary>
-<ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
+<summary><b>Medium (10):</b></summary>
+<ul><li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
+<li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
@@ -52,8 +53,9 @@
 </details>
 
 <details>
-<summary><b>C++ (4):</b></summary>
-<ul><li><a href='./171.%20Excel%20Sheet%20Column%20Number'>171. Excel Sheet Column Number</a></li>
+<summary><b>C++ (5):</b></summary>
+<ul><li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
+<li><a href='./171.%20Excel%20Sheet%20Column%20Number'>171. Excel Sheet Column Number</a></li>
 <li><a href='./1.%20Two%20Sum'>1. Two Sum</a></li>
 <li><a href='./190.%20Reverse%20Bits'>190. Reverse Bits</a></li>
 <li><a href='./168.%20Excel%20Sheet%20Column%20Title'>168. Excel Sheet Column Title</a></li>
