@@ -10,10 +10,11 @@
 </details>
 
 <details>
-<summary><b>Medium (10):</b></summary>
+<summary><b>Medium (11):</b></summary>
 <ul><li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
 <li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
+<li><a href='./22.%20Generate%20Parentheses'>22. Generate Parentheses</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
@@ -76,8 +77,9 @@
 </details>
 
 <details>
-<summary><b>Python (5):</b></summary>
+<summary><b>Python (6):</b></summary>
 <ul><li><a href='./26.%20Remove%20Duplicates%20from%20Sorted%20Array'>26. Remove Duplicates from Sorted Array</a></li>
+<li><a href='./22.%20Generate%20Parentheses'>22. Generate Parentheses</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
 <li><a href='./7.%20Reverse%20Integer'>7. Reverse Integer</a></li>
 <li><a href='./2.%20Add%20Two%20Numbers'>2. Add Two Numbers</a></li>
