@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary><b>Medium (11):</b></summary>
+<summary><b>Medium (12):</b></summary>
 <ul><li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
 <li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
@@ -21,6 +21,7 @@
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
 <li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
 <li><a href='./2.%20Add%20Two%20Numbers'>2. Add Two Numbers</a></li>
+<li><a href='./137.%20Single%20Number%20II'>137. Single Number II</a></li>
 <li><a href='./338.%20Counting%20Bits'>338. Counting Bits</a></li>
 </ul>
 </details>
@@ -65,7 +66,7 @@
 </details>
 
 <details>
-<summary><b>JavaScript (9):</b></summary>
+<summary><b>JavaScript (10):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./4.%20Median%20of%20Two%20Sorted%20Arrays'>4. Median of Two Sorted Arrays</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
@@ -74,6 +75,7 @@
 <li><a href='./136.%20Single%20Number'>136. Single Number</a></li>
 <li><a href='./1480.%20Running%20Sum%20of%201d%20Array'>1480. Running Sum of 1d Array</a></li>
 <li><a href='./37.%20Sudoku%20Solver'>37. Sudoku Solver</a></li>
+<li><a href='./137.%20Single%20Number%20II'>137. Single Number II</a></li>
 <li><a href='./338.%20Counting%20Bits'>338. Counting Bits</a></li>
 </ul>
 </details>
