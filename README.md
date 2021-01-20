@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><b>Easy (12):</b></summary>
+<summary><b>Easy (13):</b></summary>
 <ul><li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
 <li><a href='./171.%20Excel%20Sheet%20Column%20Number'>171. Excel Sheet Column Number</a></li>
 <li><a href='./26.%20Remove%20Duplicates%20from%20Sorted%20Array'>26. Remove Duplicates from Sorted Array</a></li>
@@ -35,6 +35,7 @@
 <li><a href='./627.%20Swap%20Salary'>627. Swap Salary</a></li>
 <li><a href='./7.%20Reverse%20Integer'>7. Reverse Integer</a></li>
 <li><a href='./191.%20Number%20of%201%20Bits'>191. Number of 1 Bits</a></li>
+<li><a href='./136.%20Single%20Number'>136. Single Number</a></li>
 <li><a href='./1480.%20Running%20Sum%20of%201d%20Array'>1480. Running Sum of 1d Array</a></li>
 <li><a href='./168.%20Excel%20Sheet%20Column%20Title'>168. Excel Sheet Column Title</a></li>
 <li><a href='./69.%20Sqrt(x)'>69. Sqrt(x)</a></li>
@@ -64,12 +65,13 @@
 </details>
 
 <details>
-<summary><b>JavaScript (8):</b></summary>
+<summary><b>JavaScript (9):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./4.%20Median%20of%20Two%20Sorted%20Arrays'>4. Median of Two Sorted Arrays</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
+<li><a href='./136.%20Single%20Number'>136. Single Number</a></li>
 <li><a href='./1480.%20Running%20Sum%20of%201d%20Array'>1480. Running Sum of 1d Array</a></li>
 <li><a href='./37.%20Sudoku%20Solver'>37. Sudoku Solver</a></li>
 <li><a href='./338.%20Counting%20Bits'>338. Counting Bits</a></li>
