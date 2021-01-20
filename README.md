@@ -10,13 +10,14 @@
 </details>
 
 <details>
-<summary><b>Medium (12):</b></summary>
+<summary><b>Medium (13):</b></summary>
 <ul><li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
 <li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
 <li><a href='./22.%20Generate%20Parentheses'>22. Generate Parentheses</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
+<li><a href='./260.%20Single%20Number%20III'>260. Single Number III</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
 <li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
@@ -66,10 +67,11 @@
 </details>
 
 <details>
-<summary><b>JavaScript (10):</b></summary>
+<summary><b>JavaScript (11):</b></summary>
 <ul><li><a href='./43.%20Multiply%20Strings'>43. Multiply Strings</a></li>
 <li><a href='./4.%20Median%20of%20Two%20Sorted%20Arrays'>4. Median of Two Sorted Arrays</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
+<li><a href='./260.%20Single%20Number%20III'>260. Single Number III</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./36.%20Valid%20Sudoku'>36. Valid Sudoku</a></li>
 <li><a href='./136.%20Single%20Number'>136. Single Number</a></li>
