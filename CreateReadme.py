@@ -52,17 +52,17 @@ with open("./README.md", 'w') as f:
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Hard ({len(difficulties['hard'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['hard'])
+    createBullets(difficulties['hard'].sort())
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Medium ({len(difficulties['medium'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['medium'])
+    createBullets(difficulties['medium'].sort())
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Easy ({len(difficulties['easy'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['easy'])
+    createBullets(difficulties['easy'].sort())
     f.write("</ul>\n</details>\n")
 
     f.write("\n---\n")
