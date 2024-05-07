@@ -1,4 +1,5 @@
 import os
+import re
 
 langLookup = {
     'js': 'JavaScript',
@@ -22,6 +23,7 @@ difficulties = {
 
 langs = {}
 
+
 for d in os.walk('.'):
     if '.git' not in d[0] and './' in d[0]:
         with open(f"{d[0]}/README.md", 'r') as readme:
@@ -43,12 +45,15 @@ for d in os.walk('.'):
                 else: 
                     langs[ext] = [d[0]]
 
-def sort_numerically(e):
-    return int(e.split(".")[0])
+
+def sort_numerically(e: str):
+    return int(re.search(r'\d+', e).group())
+
 
 difficulties['hard'].sort(key=sort_numerically)
 difficulties['medium'].sort(key=sort_numerically)
 difficulties['easy'].sort(key=sort_numerically)
+
 
 with open("./README.md", 'w') as f:
     def createBullets(iterable):
