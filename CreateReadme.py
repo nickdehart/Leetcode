@@ -43,9 +43,12 @@ for d in os.walk('.'):
                 else: 
                     langs[ext] = [d[0]]
 
-difficulties['hard'].sort()
-difficulties['medium'].sort()
-difficulties['easy'].sort()
+def sort_numerically(e):
+    e.split(".")[0]
+
+difficulties['hard'].sort(key=sort_numerically)
+difficulties['medium'].sort(key=sort_numerically)
+difficulties['easy'].sort(key=sort_numerically)
 
 with open("./README.md", 'w') as f:
     def createBullets(iterable):
@@ -73,6 +76,6 @@ with open("./README.md", 'w') as f:
     for key in sorted(langs.keys()):
         f.write("\n<details>")
         f.write(f"\n<summary><b>{langLookup[key]} ({len(langs[key])}):</b></summary>\n<ul>")
-        langs[key].sort()
+        langs[key].sort(key=sort_numerically)
         createBullets(langs[key])
         f.write("</ul>\n</details>\n")
