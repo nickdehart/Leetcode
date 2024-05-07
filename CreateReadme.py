@@ -43,6 +43,10 @@ for d in os.walk('.'):
                 else: 
                     langs[ext] = [d[0]]
 
+difficulties['hard'].sort()
+difficulties['medium'].sort()
+difficulties['easy'].sort()
+
 with open("./README.md", 'w') as f:
     def createBullets(iterable):
         for each in iterable:
@@ -52,17 +56,17 @@ with open("./README.md", 'w') as f:
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Hard ({len(difficulties['hard'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['hard'].sort())
+    createBullets(difficulties['hard'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Medium ({len(difficulties['medium'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['medium'].sort())
+    createBullets(difficulties['medium'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n<details>")
     f.write(f"\n<summary><b>Easy ({len(difficulties['easy'])}):</b></summary>\n<ul>")
-    createBullets(difficulties['easy'].sort())
+    createBullets(difficulties['easy'])
     f.write("</ul>\n</details>\n")
 
     f.write("\n---\n")
