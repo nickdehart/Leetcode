@@ -3,7 +3,7 @@ name: Readme Update
 
 on:
   # Runs on Push to main
-  pull_request:
+  push:
     branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -28,7 +28,7 @@ jobs:
         run: |
           python CreateReadme.py
       - name: Commit changes
-        uses: EndBug/add-and-commit@v6
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: nickdehart
           author_email: nickdehart@gmail.com
