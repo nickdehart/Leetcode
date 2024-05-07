@@ -10,8 +10,9 @@
 </details>
 
 <details>
-<summary><b>Medium (14):</b></summary>
+<summary><b>Medium (15):</b></summary>
 <ul><li><a href='./2.%20Add%20Two%20Numbers'>2. Add Two Numbers</a></li>
+<li><a href='./3.%20Longest%20Substring%20Without%20Repeating%20Characters'>3. Longest Substring Without Repeating Characters</a></li>
 <li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
 <li><a href='./15.%203Sum'>15. 3Sum</a></li>
 <li><a href='./16.%203Sum%20Closest'>16. 3Sum Closest</a></li>
@@ -101,8 +102,9 @@
 </details>
 
 <details>
-<summary><b>TypeScript (2):</b></summary>
-<ul><li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
+<summary><b>TypeScript (3):</b></summary>
+<ul><li><a href='./3.%20Longest%20Substring%20Without%20Repeating%20Characters'>3. Longest Substring Without Repeating Characters</a></li>
+<li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
 <li><a href='./2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List'>2816. Double a Number Represented as a Linked List</a></li>
 </ul>
 </details>
