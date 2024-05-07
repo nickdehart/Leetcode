@@ -44,7 +44,7 @@ for d in os.walk('.'):
                     langs[ext] = [d[0]]
 
 def sort_numerically(e):
-    e.split(".")[0]
+    return int(e.split(".")[0])
 
 difficulties['hard'].sort(key=sort_numerically)
 difficulties['medium'].sort(key=sort_numerically)
