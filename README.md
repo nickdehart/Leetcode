@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary><b>Medium (15):</b></summary>
+<summary><b>Medium (16):</b></summary>
 <ul><li><a href='./2.%20Add%20Two%20Numbers'>2. Add Two Numbers</a></li>
 <li><a href='./3.%20Longest%20Substring%20Without%20Repeating%20Characters'>3. Longest Substring Without Repeating Characters</a></li>
 <li><a href='./8.%20String%20to%20Integer%20(atoi)'>8. String to Integer (atoi)</a></li>
@@ -22,6 +22,7 @@
 <li><a href='./50.%20Pow(x,%20n)'>50. Pow(x, n)</a></li>
 <li><a href='./80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II'>80. Remove Duplicates from Sorted Array II</a></li>
 <li><a href='./137.%20Single%20Number%20II'>137. Single Number II</a></li>
+<li><a href='./200.%20Number%20of%20Islands'>200. Number of Islands</a></li>
 <li><a href='./260.%20Single%20Number%20III'>260. Single Number III</a></li>
 <li><a href='./287.%20Find%20the%20Duplicate%20Number'>287. Find the Duplicate Number</a></li>
 <li><a href='./338.%20Counting%20Bits'>338. Counting Bits</a></li>
@@ -102,8 +103,9 @@
 </details>
 
 <details>
-<summary><b>TypeScript (3):</b></summary>
+<summary><b>TypeScript (4):</b></summary>
 <ul><li><a href='./3.%20Longest%20Substring%20Without%20Repeating%20Characters'>3. Longest Substring Without Repeating Characters</a></li>
+<li><a href='./200.%20Number%20of%20Islands'>200. Number of Islands</a></li>
 <li><a href='./344.%20Reverse%20String'>344. Reverse String</a></li>
 <li><a href='./2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List'>2816. Double a Number Represented as a Linked List</a></li>
 </ul>
